@@ -1,0 +1,14 @@
+{
+  "name": "17c3f0f9004edd01",
+  "main": "17c3f0f9004edd01@1127.js",
+  "version": "1127.0.0",
+  "homepage": "https://observablehq.com/d/17c3f0f9004edd01",
+  "author": {
+    "name": "Gavin Morrow",
+    "url": "https://observablehq.com/@gavin-morrow"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
